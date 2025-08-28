@@ -1,1 +1,1 @@
-# UniSwapMevBot
+🤖 Mev BOT: An Ethereum bot 🌏 designed in solidity 🔒 to optimize MEV (Miner Extractable Value) 💸 extraction. Features mempool 🌊 monitoring, front-running 🚀, and robust security mechanisms 🔒# UniSwapMevBot
